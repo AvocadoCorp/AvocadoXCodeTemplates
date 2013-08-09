@@ -1,0 +1,10 @@
+Avocado Test XCode Template Installation:
+-----------------------------------------------------------------------------------------------
+
+From a console run the following commands:
+$ bash install.sh
+
+Project Additions:
+ - Add all the files in Project Files to your Tests Target in XCode
+
+ Enjoy!
